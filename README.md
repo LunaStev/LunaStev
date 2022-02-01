@@ -3,7 +3,7 @@
 </div>  
   
 ### Quin0019
-<div align="right">
+<div align="middle">
 <a href="https://github.com/Quin0019" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
