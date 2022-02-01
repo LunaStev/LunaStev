@@ -13,9 +13,9 @@
 </div>
 
 
-<div sttyle='float:middle'>
-<img style="margin: 45px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="25" />  
-<img style="margin: 45px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" />  
+<div sttyle='float:middle', align="middle">
+<img style="margin: 45px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="45" />  
+<img style="margin: 45px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="45" />  
 </div>
 
 
