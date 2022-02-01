@@ -16,6 +16,7 @@
 <div sttyle='float:middle', align="middle">
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="65" />  
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
+  <img style="margin: 65px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" alt="Java" height="65" />  
 </div>
 
 
