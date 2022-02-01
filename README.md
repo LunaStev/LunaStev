@@ -2,9 +2,12 @@
 <img src="https://komarev.com/ghpvc/?username=Quin0019&&style=flat-square" align="right" />
 </div>  
   
-
-
 ### Quin0019
+<div align="right">
+<a href="https://github.com/Quin0019" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+</div>
 
 <!--
 **Quin0019/Quin0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -22,6 +25,8 @@ Here are some ideas to get you started:
 -->
 
 
+
+## Github
 <table><tr><td valign="top" width="50%">
 
 <img src="https://github-readme-stats.vercel.app/api?username=Quin0019&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
