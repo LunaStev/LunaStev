@@ -18,6 +18,7 @@
 <img style="margin: 65px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" height="65" />  
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
 <img style="margin: 65px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" alt="Java" height="65" />  
+<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" alt="Rust" height="65" />  
 </div>
 
 
