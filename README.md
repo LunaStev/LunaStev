@@ -35,6 +35,7 @@
 
 <br/>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5CEYE2)
 
 <!--
 **Quin0019/Quin0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
