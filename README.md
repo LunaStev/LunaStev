@@ -4,7 +4,7 @@
   
 <h1 align="middle">LunaStev</h1>
 <div align="middle">
-<a href="https://github.com/Quin0019" target="_blank">
+<a href="https://github.com/LunaStev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://discord.gg/BuaaAaCtNU" target="_blank">
@@ -25,11 +25,11 @@
 <h2 align="middle">Github</h2>
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Quin0019&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=LunaStev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Quin0019&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
