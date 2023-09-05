@@ -38,9 +38,11 @@
 <h2>Sponsor this project</h2> 
 
 <div align="center">
-<img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" alt="PaperMC" width="100"/>
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="100"/>
-<img src="https://github.com/aha999/DonateButtons/blob/master/Paypal.png?raw=true" alt="PayPal" width="100"/>
+<img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" alt="PaperMC" width="130"/>
+
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="190"/>
+
+<img src="https://github.com/aha999/DonateButtons/blob/master/Paypal.png?raw=true" alt="PayPal" width="200"/>
 
 </div>
 
