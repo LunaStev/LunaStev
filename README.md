@@ -39,11 +39,11 @@
 
 <div align="center">
   
-<img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" alt="PaperMC" width="130"/>
+<img src="https://avatars.githubusercontent.com/u/7608950?s=200&v=4" href="https://github.com/sponsors/PaperMC" alt="PaperMC" width="130"/>
 
-<img src="https://github.com/aha999/DonateButtons/blob/master/Paypal.png?raw=true" alt="PayPal" width="200"/>
+<img src="https://github.com/aha999/DonateButtons/blob/master/Paypal.png?raw=true" href="https://paypal.me/TEAMSOBIKR" alt="PayPal" width="200"/>
 
-<img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="Ko-fi" width="190"/>
+<img src="https://ko-fi.com/img/githubbutton_sm.svg" href="https://ko-fi.com/lunastev" alt="Ko-fi" width="190"/>
 
 </div>
 
