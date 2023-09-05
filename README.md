@@ -35,7 +35,13 @@
 
 <br/>
 
+<h2>Sponsor this project</h2> 
+
+[![PaperMC](https://avatars.githubusercontent.com/u/7608950?s=200&v=4)](https://github.com/sponsors/PaperMC)
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/M4M5CEYE2)
+
+[![PayPal](https://github.com/aha999/DonateButtons/blob/master/Paypal.png?raw=true)](https://paypal.me/TEAMSOBIKR)
 
 <!--
 **Quin0019/Quin0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
