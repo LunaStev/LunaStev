@@ -14,8 +14,7 @@
 
 
 <div sttyle='float:middle', align="middle">
-<img style="margin: 65px" src="https://seeklogo.com/images/C/c-programming-language-logo-9B32D017B1-seeklogo.com.png" alt="C" height="65" />  
-<img style="margin: 65px" src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" alt="C++" height="65" />  
+<img style="margin: 65px" src="https://camo.githubusercontent.com/2f474f5368c1868a22afd96be8c0ca57a1cb510f0a4224e4c1af89ae01690cc7/68747470733a2f2f776176652d6c616e672e6465762f6173736574732f696d672f66656174757265732f776176652e706e67" alt="Wave" height="65" />  
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
 <img style="margin: 65px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" alt="Java" height="65" />  
 <img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Rust_programming_language_black_logo.svg/1200px-Rust_programming_language_black_logo.svg.png" alt="Rust" height="65" />  
