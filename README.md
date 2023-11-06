@@ -30,6 +30,9 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
+</td><td valign="top" width="50%">
+
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
 </td></tr></table>  
 
 <br/>
