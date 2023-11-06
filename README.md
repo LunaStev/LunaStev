@@ -1,5 +1,5 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=Quin0019&&style=flat-square" align="right" />
+<img src="https://komarev.com/ghpvc/?username=LunaStev&&style=flat-square" align="right" />
 </div>  
   
 <h1 align="middle">LunaStev</h1>
@@ -35,7 +35,7 @@
 
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=LunaStev" align="left" style="width: 100%" />
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=LunaStev)](https://github.com/anuraghazra/github-readme-stats)
 
 </td></tr></table>  
 
