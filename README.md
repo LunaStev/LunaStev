@@ -14,7 +14,7 @@
 
 
 <div sttyle='float:middle', align="middle">
-<img style="margin: 65px" src="https://camo.githubusercontent.com/2f474f5368c1868a22afd96be8c0ca57a1cb510f0a4224e4c1af89ae01690cc7/68747470733a2f2f776176652d6c616e672e6465762f6173736574732f696d672f66656174757265732f776176652e706e67" alt="Wave" height="65" />  
+<img style="margin: 65px" src="https://wave-lang.dev/assets/img/logo/full-logo.png" alt="Wave" height="65" />  
 <img style="margin: 65px" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="Rust" height="65" />  
 <img style="margin: 65px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" alt="Java" height="65" />  
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
