@@ -7,16 +7,17 @@
 <a href="https://github.com/LunaStev" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://discord.gg/BuaaAaCtNU" target="_blank">
+<a href="https://discord.gg/RaMHqUtpnk" target="_blank">
 <img src=https://img.shields.io/badge/discord-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
 </a>
 </div>
 
 
 <div sttyle='float:middle', align="middle">
-<img style="margin: 65px" src="https://wave-lang.dev/assets/img/logo/full-logo.png" alt="Wave" height="65" />  
+<img style="margin: 65px" src="https://wave-lang.dev/assets/img/features/wave.png" alt="Wave" height="65" />  
 <img style="margin: 65px" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="Rust" height="65" />  
-<img style="margin: 65px" src="https://icons.iconarchive.com/icons/alecive/flatwoken/512/Apps-Java-icon.png" alt="Java" height="65" />  
+<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" height="65" />
+<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" alt="Haskell" height="65" />
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
 </div>
 
@@ -32,7 +33,9 @@
 <h2>Sponsor this project</h2> 
 
 <div align="center">
-
+<a href="https://opencollective.com/wave-lang">
+  <img src="https://opencollective.com/wave-lang/tiers/sponsor.svg?avatarHeight=36" width="200" alt="Open Collective sponsors" />
+</a>
 </div>
 
 <!--
