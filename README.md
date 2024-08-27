@@ -33,8 +33,8 @@
 <h2>Sponsor this project</h2> 
 
 <div align="center">
-<a href="https://opencollective.com/wave-lang">
-  <img src="https://opencollective.com/wave-lang/tiers/sponsor.svg?avatarHeight=36" width="200" alt="Open Collective sponsors" />
+<a href="https://ko-fi.com/lunasev">
+  <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/s8bnzk0dxpbhfzyfoutn" width="200" alt="ko-fi" />
 </a>
 </div>
 
