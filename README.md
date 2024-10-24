@@ -15,10 +15,10 @@
 
 <div sttyle='float:middle', align="middle">
 <img style="margin: 65px" src="https://wave-lang.dev/assets/img/features/wave.png" alt="Wave" height="65" />  
-<img style="margin: 65px" src="https://www.nicepng.com/png/full/34-348422_community-spotlight-rust-programming-language.png" alt="Rust" height="65" />  
-<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" height="65" />
-<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Haskell-Logo.svg/2560px-Haskell-Logo.svg.png" alt="Haskell" height="65" />
 <img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
+<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1200px-D_Programming_Language_logo.svg.png" alt="D" height="65" />  
+<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" height="65" />
+<img style="margin: 65px" src="https://iconape.com/wp-content/files/mg/381783/svg/381783.svg" alt="OCaml" height="65" />
 </div>
 
 
