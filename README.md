@@ -1,56 +1,79 @@
 <div align="right">
-<img src="https://komarev.com/ghpvc/?username=LunaStev&&style=flat-square" align="right" />
-</div>  
-  
-<h1 align="middle">LunaStev</h1>
-<div align="middle">
-<a href="https://github.com/LunaStev" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.gg/RaMHqUtpnk" target="_blank">
-<img src=https://img.shields.io/badge/discord-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white alt=discord style="margin-bottom: 5px;" />
-</a>
+  <img src="https://komarev.com/ghpvc/?username=LunaStev&&style=flat-square" align="right" />
+  <img src="https://img.shields.io/github/stars/LunaStev?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" align="right" />
 </div>
 
-
-<div sttyle='float:middle', align="middle">
-<img style="margin: 65px" src="https://wave-lang.dev/assets/img/features/wave.png" alt="Wave" height="65" />  
-<img style="margin: 65px" src="https://logowik.com/content/uploads/images/rust8244.jpg" alt="Rust" height="65" />  
-<img style="margin: 65px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="65" />  
-<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/D_Programming_Language_logo.svg/1200px-D_Programming_Language_logo.svg.png" alt="D" height="65" />  
-<img style="margin: 65px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Kotlin_Icon.svg/1200px-Kotlin_Icon.svg.png" alt="Kotlin" height="65" />
-<img style="margin: 65px" src="https://iconape.com/wp-content/files/mg/381783/svg/381783.svg" alt="OCaml" height="65" />
-</div>
-
-![GitHub Snake](github-user-contribution.svg)
-
-<h2 align="middle">Github</h2>
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=LunaStev&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 50%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact" align="left" style="width: 50%" />
-
-</td></table>
-<h2>Sponsor this project</h2> 
+<h1 align="center">🌙 LunaStev</h1>
 
 <div align="center">
-<a href="https://ko-fi.com/lunasev">
-  <img src="https://images.crunchbase.com/image/upload/c_pad,f_auto,q_auto:eco,dpr_1/s8bnzk0dxpbhfzyfoutn" width="200" alt="ko-fi" />
-</a>
+  <a href="https://github.com/LunaStev" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="https://discord.gg/RaMHqUtpnk" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a>
 </div>
 
-<!--
-**Quin0019/Quin0019** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌟 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi there! I'm LunaStev, a passionate developer exploring the world of programming.  
+Currently focused on **Wave**, a programming language aimed at reimagining low-level programming.  
+I enjoy contributing to innovative projects and experimenting with new ideas.
+
+> 💡 *I don't currently have a job, but I'm open to exciting opportunities that align with my skills and passions.*
+
+---
+
+## 🛠️ Tools & Skills
+
+### 🚀 Development Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,cloudflare,notion" />
+  </a>
+</p>
+
+### 💻 Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,py,java" />
+  </a>
+</p>
+
+### 🖥️ Operating Systems
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux" />
+  </a>
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LunaStev&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/LunaStev/github-user-contribution.svg" alt="GitHub Contributions" />
+</p>
+
+---
+
+## 💖 Sponsor My Work
+
+If you like my work and want to support me, you can sponsor me on **Ko-fi**:  
+<div align="center">
+  <a href="https://ko-fi.com/lunasev" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" width="200" alt="Ko-fi" />
+  </a>
+</div>
+
+
