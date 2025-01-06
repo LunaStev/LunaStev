@@ -62,7 +62,7 @@ I enjoy contributing to innovative projects and experimenting with new ideas.
 </p>
 
 <p align="center">
-  <img src="https://github.com/LunaStev/github-user-contribution.svg" alt="GitHub Contributions" />
+  <img src="github-user-contribution.svg" alt="GitHub Contributions" />
 </p>
 
 ---
