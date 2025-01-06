@@ -53,13 +53,10 @@ I enjoy contributing to innovative projects and experimenting with new ideas.
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunaStev&show_icons=true&count_private=true&hide_border=true&theme=radical" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact&theme=radical" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=LunaStev&show_icons=true&count_private=true&hide_border=true&theme=radical" style="width: 48%;" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact&theme=radical" style="width: 48%;" alt="Top Languages" />
+</div>
 
 <p align="center">
   <img src="github-user-contribution.svg" alt="GitHub Contributions" />
