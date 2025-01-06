@@ -5,13 +5,27 @@
 
 <h1 align="center">🌙 LunaStev</h1>
 
+---
+
 <div align="center">
-  <a href="https://github.com/LunaStev" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://discord.gg/RaMHqUtpnk" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-%2300acee.svg?&style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-  </a>
+<a href="https://github.com/LunaStev" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</a>
+<a href="https://twitter.com/LunaStev_" target="_blank">
+<img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
+</a>
+<a href="https://instagram.com/1unnuiz" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+</a>
+<a href="https://discord.gg/Kuk2qXFjc5" target="_blank">
+<img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+</a>
+<a href="mailto:lunastev@gurmstudios.com" target="_blank">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+<a href="https://linkedin.com/in/LunaStev" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
 </div>
 
 ---
