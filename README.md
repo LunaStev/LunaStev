@@ -49,7 +49,12 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 - **Robust Standard Library**: Enabling powerful abstractions and seamless development.
 
 **Status**: Active Development  
-**Primary Language**: [Rust](https://www.rust-lang.org)  
+
+**Primary Language**:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust" />
+</a>
 
 Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 
@@ -61,7 +66,12 @@ A minimalist yet challenging game available on [Steam](https://store.steampowere
 - Designed for engaging and logical gameplay.
 
 **Status**: Released  
-**Development Engine**: Unity  
+
+**Development Tool**: 
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=unity,cs" />
+</a>
 
 ---
 
