@@ -62,6 +62,15 @@ Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 ### 🐳 **Whale Compiler Toolchain**
 [Whale](https://github.com/LunaStev/Whale) is a general-purpose low-level toolchain written in Rust, designed to support the development of various compilers and low-level software, including Wave. 
 
+**Status**: Active Development  
+
+**Primary Language**:
+
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=rust" />
+</a>
+
+Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 ---
 
 ### 🎮 **Binary_Game**
