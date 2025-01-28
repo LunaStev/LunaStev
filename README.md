@@ -59,6 +59,10 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 
 ---
+### 🐳 **Whale Compiler Toolchain**
+[Whale](https://github.com/LunaStev/Whale) is a general-purpose low-level toolchain written in Rust, designed to support the development of various compilers and low-level software, including Wave. 
+
+---
 
 ### 🎮 **Binary_Game**
 A minimalist yet challenging game available on [Steam](https://store.steampowered.com/app/3347560/Binary_Game/).  
