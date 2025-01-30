@@ -71,6 +71,7 @@ Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 </a>
 
 Explore more: [**wave-lang.dev**](https://wave-lang.dev)
+
 ---
 
 ### 🎮 **Binary_Game**
