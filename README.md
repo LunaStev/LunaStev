@@ -108,7 +108,7 @@ A minimalist yet challenging game available on [Steam](https://store.steampowere
 ### 🖥️ Operating Systems
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux" />
+    <img src="https://skillicons.dev/icons?i=windows,linux,mint" />
   </a>
 </p>
 
