@@ -43,12 +43,36 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 ## 🌌 Featured Projects
 
 ### 🌊 **Wave Programming Language**
-[Wave](https://github.com/LunaStev/Wave) is my flagship project, reimagining low-level programming with:  
-- **High Performance**: Optimized for system-level development.  
-- **Versatility**: Suitable for AI, blockchain, web development, and more.  
-- **Robust Standard Library**: Enabling powerful abstractions and seamless development.
+- **Period**: May 2024 – Ongoing
+- **Tech Stack**: Rust, LLVM, inkwell, self-made IR system
+- **Description**: Developing an integrated low-level + high-level programming language to complement and replace C, Rust, and Assembly. Features include strong typing, explicit type declarations, a custom package manager, and a proprietary data format.
+- **Roles & Contributions**:
+    - Language design and full grammar specification
+    - Parser and AST implementation
+    - Compiler development based on LLVM IR
+    - Development of standard libraries (file, http, iosys, etc.)
+    - Design and implementation of a custom data format (WSON) and package manager (Vex)
+    - **Achievements**:
+        - Released as independent repositories on GitHub (Wave, Whale, Vex)
 
-**Status**: Active Development  
+**Primary Language**: 
+
+<img src="https://skillicons.dev/icons?i=rust" />
+
+Explore more: [**wave-lang.dev**](https://wave-lang.dev)
+
+---
+### 🐳 **Whale Compiler Toolchain**
+- **Period**: January 2025 – Ongoing
+- **Tech Stack**: Rust, custom IR system within Wave
+- **Description**: A dedicated compiler toolchain exclusively for the Wave language. Designed for extreme modularity to easily manage architecture-specific compiler structures.
+- **Roles & Contributions**:
+    - Designed the structure from AST → IR → Assembler → Kernel
+    - Planned a WSON-based module management system
+    - Designed a structure to minimize platform dependency
+    - **Achievements**:
+        - Established roadmap to remove LLVM dependency
+        - Completed system plan allowing replacement/removal of internal Whale modules
 
 **Primary Language**:
 
@@ -59,19 +83,71 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 
 ---
-### 🐳 **Whale Compiler Toolchain**
-[Whale](https://github.com/LunaStev/Whale) is a general-purpose low-level toolchain written in Rust, designed to support the development of various compilers and low-level software, including Wave. 
 
-**Status**: Active Development  
+### Vex Package Manager
 
-**Primary Language**:
+- **Period**: January 2025 – Ongoing
+- **Tech Stack**: Rust, CLI, WSON
+- **Description**: A dedicated package manager for Wave that supports cross-platform builds and uses WSON instead of JSON.
+- **Roles & Contributions**:
+    - Designed the structure for `vex init`, `vex build --os`
+    - Implemented the `.ws` configuration parser and project initializer
+    - **Achievements**:
+        - Included as a default tool in Wave
+        - Contributed to establishing a complete language ecosystem
 
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=rust" />
-</a>
+---
 
-Explore more: [**wave-lang.dev**](https://wave-lang.dev)
+### WSON: Wave Serialized Object Notation
 
+- **Period**: November 2024 – Ongoing
+- **Tech Stack**: Rust (initial implementation in Python), no external JSON libraries
+- **Description**: A data format designed exclusively for the Wave language, intended to replace JSON with faster parsing, serialization, and querying capabilities.
+- **Roles & Contributions**:
+    - Defined syntax and documented the format specification
+    - Implemented parser/serializer in Rust from scratch
+    - Prepared performance benchmarks comparing JSON, YAML, and TOML
+    - **Achievements**:
+        - Adopted as the official format for Wave
+        - Designed to be integrated with the Whale module system in the future
+
+---
+
+### THE END Series (Game Project)
+
+- **Period**: July 2023 – Ongoing
+- **Tech Stack**: Rust (planned), Wave (ultimate goal), Blender fork, custom game engine
+- **Description**: A massive sci-fi war universe between humans and alien species, consisting of 7 story-driven games and 1 online game.
+- **Roles & Contributions**:
+    - Created the entire scenario and worldbuilding
+    - Designed alien races, technologies, organizations, languages, and economic systems
+    - Planned the structure of the custom game engine (Daisy)
+    - **Achievements**:
+        - Directly connected to the development of Wave and Daisy Engine
+        - Serves as the foundational world for multiple projects
+
+---
+
+### Unreal Engine UDP Data Reception System
+
+- **Period**: March 2025 – Ongoing
+- **Tech Stack**: C++, Unreal Engine 5, JSON
+- **Description**: A system that receives JSON data via UDP from external systems and makes it usable within Blueprints.
+- **Roles & Contributions**:
+    - Developed UDP data reception functionality in C++
+    - Designed and implemented Blueprint integration
+    - **Achievements**:
+        - Used in a professor-led project
+
+---
+
+### Currency-related Projects
+
+- **Chrome Extension**:
+    - Implemented real-time exchange rate checking feature
+- **Testnet Coin**:
+    - Experience issuing a coin on a testnet
+ 
 ---
 
 ### 🎮 **Binary_Game**
