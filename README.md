@@ -130,7 +130,7 @@ Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 
 ### Unreal Engine UDP Data Reception System
 
-- **Period**: March 2025 – Ongoing
+- **Period**: 04 March 2025 – 26 March 2025
 - **Tech Stack**: C++, Unreal Engine 5, JSON
 - **Description**: A system that receives JSON data via UDP from external systems and makes it usable within Blueprints.
 - **Roles & Contributions**:
