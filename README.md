@@ -62,6 +62,20 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 
 ---
+
+### 🧩 **Loa Programming Language**
+- **Period**: April 2025 – Ongoing
+- **Tech Stack**: Rust
+- **Description**: Loa is a programming language focused on simplicity, readability, and ease of use. It is an interpreted language with a clean and minimal syntax, designed to make programming accessible and straightforward. Loa supports basic programming constructs such as variables, conditionals, loops, and functions, making it suitable for a wide range of general-purpose tasks.
+
+**Primary Language**: 
+
+<img src="https://skillicons.dev/icons?i=rust" />
+
+Explore more: [**wave-lang.dev**](https://wave-lang.dev)
+
+---
+
 ### 🐳 **Whale Compiler Toolchain**
 - **Period**: January 2025 – Ongoing
 - **Tech Stack**: Rust, custom IR system within Wave
