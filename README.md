@@ -33,6 +33,7 @@
 ## 🌟 About Me
 
 [Dev.to](https://dev.to/lunastev)
+[Blog](https://blog.naver.com/lunastev)
 
 Hello! I'm **LunaStev**, a passionate developer exploring the world of programming.  
 I'm currently working on **Wave**, a programming language that aims to revolutionize low-level development.  
