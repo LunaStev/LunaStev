@@ -211,8 +211,16 @@ A minimalist yet challenging game available on [Steam](https://store.steampowere
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LunaStev&show_icons=true&count_private=true&hide_border=true&theme=radical" style="width: 48%;" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&hide_border=true&layout=compact&theme=radical" style="width: 48%;" alt="Top Languages" />
+  <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96914208" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @LunaStev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </div>
 
 
