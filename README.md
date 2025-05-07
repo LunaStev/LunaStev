@@ -102,7 +102,7 @@ Explore more: [**wave-lang.dev**](https://wave-lang.dev)
 
 ---
 
-### Vex Package Manager
+### 📟 Vex Package Manager
 
 - **Period**: January 2025 – Ongoing
 - **Tech Stack**: Rust, CLI, WSON
