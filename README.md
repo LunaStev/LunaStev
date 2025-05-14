@@ -46,6 +46,11 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 
 ## 🌌 Featured Projects
 
+### 📖 **필독서 큐레이션 서비스**
+- **설명**: 주요 영향력 있는 기관이 추천하는 필독서를 큐레이션을 해주는 서비스 입니다.
+
+사이트: [**required-reading**](https://required-reading.vercel.app/)
+
 ### 🌊 **Wave Programming Language**
 - **Period**: May 2024 – Ongoing
 - **Tech Stack**: Rust, LLVM, inkwell, self-made IR system
