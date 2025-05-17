@@ -39,19 +39,25 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Copy-paste in your Readme.md file -->
 
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96914208" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @LunaStev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
+<table>
+  <tr>
+    <td>
+      <a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96914208" target="_blank">
+        <picture>
+          <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=dark" width="385">
+          <img alt="Dashboard stats of @LunaStev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=light" width="385">
+        </picture>
+      </a>
+    </td>
+    <td>
+      <img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&layout=compact" width="385">
+    </td>
+  </tr>
+</table>
 
-<img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&layout=compact" width="771" height="auto">
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
 </div>
+
 
 <p align="center">
   <img src="github-user-contribution.svg" alt="GitHub Contributions" />
