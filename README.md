@@ -27,10 +27,10 @@
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://blog.naver.com/lunastev/" target="_blank">
-    <img src="https://img.shields.io/badge/naver-blog-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/네이버-블로그-1cd94e?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>  
   <a href="https://dev.to/lunastev/" target="_blank">
-    <img src="https://img.shields.io/badge/dev-to-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/dev-to-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </div>
 
