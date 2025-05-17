@@ -26,15 +26,17 @@
   <a href="https://www.linkedin.com/in/lunastev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
+  <a href="https://blog.naver.com/lunastev/" target="_blank">
+    <img src="https://img.shields.io/badge/naver-blog-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>  
+  <a href="https://dev.to/lunastev/" target="_blank">
+    <img src="https://img.shields.io/badge/dev-to-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </div>
 
 ---
 
 ## 🌟 About Me
-
-[Dev.to](https://dev.to/lunastev)
-
-[Blog](https://blog.naver.com/lunastev)
 
 Hello! I'm **LunaStev**, a passionate developer exploring the world of programming.  
 I'm currently working on **Wave**, a programming language that aims to revolutionize low-level development.  
