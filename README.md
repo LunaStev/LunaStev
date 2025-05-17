@@ -91,6 +91,13 @@ I enjoy contributing to innovative projects and experimenting with creative idea
   </a>
 </p>
 
+### 🌐 Framework
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=pytorch,nextjs,mongodb,vercel" />
+  </a>
+</p>
+
 ### 🖥️ Operating Systems
 <p align="center">
   <a href="https://skillicons.dev">
