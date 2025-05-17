@@ -75,6 +75,42 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 
 ---
 
+## 🛠️ Tools & Skills
+
+### 🚀 Development Tools
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,cloudflare,notion" />
+  </a>
+</p>
+
+### 💻 Programming Languages
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=rust,c,py,java" />
+  </a>
+</p>
+
+### 🖥️ Operating Systems
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=windows,linux,mint,kali" />
+  </a>
+</p>
+
+---
+
+## 💖 Sponsor My Work
+
+If you enjoy my work and want to support my journey, you can sponsor me on **Ko-fi**:  
+<div align="center">
+  <a href="https://ko-fi.com/lunasev" target="_blank">
+    <img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" width="200" alt="Ko-fi" />
+  </a>
+</div>
+
+---
+
 ## 🌌 Featured Projects
 
 ### 📖 **필독서 큐레이션 서비스**
@@ -216,41 +252,4 @@ A minimalist yet challenging game available on [Steam](https://store.steampowere
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=unity,cs" />
 </a>
-
----
-
-## 🛠️ Tools & Skills
-
-### 🚀 Development Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,cloudflare,notion" />
-  </a>
-</p>
-
-### 💻 Programming Languages
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,py,java" />
-  </a>
-</p>
-
-### 🖥️ Operating Systems
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,mint,kali" />
-  </a>
-</p>
-
----
-
-## 💖 Sponsor My Work
-
-If you enjoy my work and want to support my journey, you can sponsor me on **Ko-fi**:  
-<div align="center">
-  <a href="https://ko-fi.com/lunasev" target="_blank">
-    <img src="https://cdn.ko-fi.com/cdn/kofi1.png?v=2" width="200" alt="Ko-fi" />
-  </a>
-</div>
-
 
