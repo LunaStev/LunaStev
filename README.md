@@ -36,6 +36,29 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<div align="center">
+  <!-- Copy-paste in your Readme.md file -->
+
+<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96914208" target="_blank" style="display: block" align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=dark" width="771" height="auto">
+    <img alt="Dashboard stats of @LunaStev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=light" width="771" height="auto">
+  </picture>
+</a>
+
+<img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&layout=compact" width="771" height="auto">
+
+<!-- Made with [OSS Insight](https://ossinsight.io/) -->
+</div>
+
+<p align="center">
+  <img src="github-user-contribution.svg" alt="GitHub Contributions" />
+</p>
+
+---
+
 ## 🌟 About Me
 
 Hello! I'm **LunaStev**, a passionate developer exploring the world of programming.  
@@ -211,28 +234,6 @@ A minimalist yet challenging game available on [Steam](https://store.steampowere
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=windows,linux,mint,kali" />
   </a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <!-- Copy-paste in your Readme.md file -->
-
-<a href="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats?user_id=96914208" target="_blank" style="display: block" align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=dark" width="771" height="auto">
-    <img alt="Dashboard stats of @LunaStev" src="https://next.ossinsight.io/widgets/official/compose-user-dashboard-stats/thumbnail.png?user_id=96914208&image_size=auto&color_scheme=light" width="771" height="auto">
-  </picture>
-</a>
-
-<!-- Made with [OSS Insight](https://ossinsight.io/) -->
-</div>
-
-
-<p align="center">
-  <img src="github-user-contribution.svg" alt="GitHub Contributions" />
 </p>
 
 ---
