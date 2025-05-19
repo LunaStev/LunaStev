@@ -123,7 +123,13 @@ If you enjoy my work and want to support my journey, you can sponsor me on **Ko-
 ### 📖 **필독서 큐레이션 서비스**
 - **설명**: 주요 영향력 있는 기관이 추천하는 필독서를 큐레이션을 해주는 서비스 입니다.
 
+**Primary Language**: 
+
+<img src="https://skillicons.dev/icons?i=ts" />
+
 사이트: [**required-reading**](https://required-reading.vercel.app/)
+
+---
 
 ### 🌊 **Wave Programming Language**
 - **Period**: May 2024 – Ongoing
