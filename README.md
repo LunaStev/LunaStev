@@ -125,7 +125,7 @@ If you enjoy my work and want to support my journey, you can sponsor me on **Ko-
 
 **Primary Language**: 
 
-<img src="https://skillicons.dev/icons?i=ts" />
+<img src="https://skillicons.dev/icons?i=nextjs,ts" />
 
 사이트: [**required-reading**](https://required-reading.vercel.app/)
 
