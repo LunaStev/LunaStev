@@ -3,7 +3,12 @@
   <img src="https://img.shields.io/github/stars/LunaStev?affiliations=OWNER%2CCOLLABORATOR&style=flat-square" align="right" />
 </div>
 
-<h1 align="center">🌙 LunaStev</h1>
+---
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&text=🌙%20LunaStev&animation=fadeIn&fontColor=8b00ff&height=200&color=8b00ff" alt="Profile" />
+
+</div>
 
 ---
 
