@@ -16,6 +16,9 @@
   <a href="https://github.com/LunaStev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
+  <a href="https://github.com/sponsors/LunaStev" target="_blank">
+    <img src="https://img.shields.io/badge/Sponsor-LunaStev-ff69b4?logo=GitHub%20Sponsors&style=for-the-badge" alt="GitHub" />
+  </a>
   <a href="https://twitter.com/LunaStev_" target="_blank">
     <img src="https://img.shields.io/badge/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="X (Twitter)" />
   </a>
