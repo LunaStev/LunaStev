@@ -112,7 +112,7 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 ### 🖥️ Operating Systems
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=windows,linux,mint,kali" />
+    <img src="https://skillicons.dev/icons?i=linux,mint,kali" />
   </a>
 </p>
 
