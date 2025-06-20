@@ -61,6 +61,9 @@
     <td>
       <img alt="TopLang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LunaStev&layout=compact" width="385">
     </td>
+    <td>
+      <img alt="TopLang" src="https://github-readme-stats.vercel.app/api?username=LunaStev&layout=compact" width="385">
+    </td>
   </tr>
 </table>
 
