@@ -89,31 +89,31 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 
 ## 🛠️ Tools & Skills
 
-### 🚀 Development Tools
+<h3 align="center"> 🖥️ Operating Systems </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,cloudflare,notion" />
+    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali" />
   </a>
 </p>
 
-### 💻 Programming Languages
+<h3 align="center"> 💻 Programming Languages </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,py,java" />
+    <img src="https://skillicons.dev/icons?i=rust,c,py,kotlin" />
   </a>
 </p>
 
-### 🌐 Framework
+<h3 align="center"> 🌐 Framework </h3>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=pytorch,nextjs,mongodb,vercel" />
   </a>
 </p>
 
-### 🖥️ Operating Systems
+<h3 align="center"> 🚀 Development Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,cloudflare,notion" />
   </a>
 </p>
 
