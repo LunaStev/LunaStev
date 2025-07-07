@@ -92,28 +92,37 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 <h3 align="center"> 🖥️ Operating Systems </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,arch,ubuntu,kali" />
+    <img src="https://skillicons.dev/icons?i=arch,kali,linux,ubuntu,raspberrypi" />
   </a>
 </p>
 
 <h3 align="center"> 💻 Programming Languages </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=rust,c,py,kotlin" />
+    <img src="https://www.wave-lang.dev/img/logo.svg" alt="Wave Logo" width="50" height="50" style="vertical-align: middle; margin-right: 10px;" />
+    <img src="https://skillicons.dev/icons?i=rust,zig,c,cpp,go,py,kotlin" />
   </a>
 </p>
 
-<h3 align="center"> 🌐 Framework </h3>
+<h3 align="center"> ⚙️ Tools & Frameworks </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=pytorch,nextjs,mongodb,vercel" />
+    <img src="https://skillicons.dev/icons?i=docker,pytorch,qt,arduino" />
   </a>
 </p>
 
 <h3 align="center"> 🚀 Development Tools </h3>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,idea,vscode,cloudflare,notion" />
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,notion,cloudflare" />
+  </a>
+</p>
+
+<h3 align="center"> 🥊 Competing Frameworks </h3>
+<p align="center">
+  <i><b>My engine (DaisyEngine / StarEngine) is built to compete with:</b></i><br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=unity,unreal" />
   </a>
 </p>
 
