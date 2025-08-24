@@ -248,12 +248,6 @@ I enjoy contributing to innovative projects and experimenting with creative idea
   </table>
 </div>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=unity,unreal" />
-  </a>
-</p>
-
 ---
 
 ## 💖 Sponsor My Work
