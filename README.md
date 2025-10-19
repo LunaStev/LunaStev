@@ -5,6 +5,10 @@
 
 ---
 
+The creation of the GitHub account was on December 31, 2021. The period before that is being displayed because of [legacy-cc](https://github.com/LunaStev/legacy-cc).
+
+---
+
 <div align="center">
   <a href="https://github.com/LunaStev" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
