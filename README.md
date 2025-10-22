@@ -140,8 +140,8 @@ I enjoy contributing to innovative projects and experimenting with creative idea
         <br>Docker
       </td>
       <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" /></a>
-        <br>PyTorch
+        <a href="#"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTt3zQw458wEJLfaZjtiHQ73ka0h6stKyvTg&s" width="48" height="48" alt="SDL2" /></a>
+        <br>SDL2
       </td>
       <td align="center" width="96">
         <a href="#"><img src="https://skillicons.dev/icons?i=qt" width="48" height="48" alt="Qt" /></a>
@@ -195,16 +195,12 @@ I enjoy contributing to innovative projects and experimenting with creative idea
 
 <div align="center">
   <h3 align="center"> 🥊 Competing Frameworks </h3>
-  <i><b>My engine (DaisyEngine / StarEngine) is built to compete with:</b></i><br><br>
+  <i><b>My engine is built to compete with:</b></i><br><br>
   <table>
     <tr>
       <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=unity" width="48" height="48" alt="Unity" /></a>
-        <br>Unity
-      </td>
-      <td align="center" width="96">
-        <a href="#"><img src="https://skillicons.dev/icons?i=unreal" width="48" height="48" alt="Unreal" /></a>
-        <br>Unreal Engine
+        <a href="#"><img src="https://i.redd.it/49xrs5z9o1u41.png" width="48" height="48" alt="Source 2" /></a>
+        <br>Source 2
       </td>
     </tr>
   </table>
