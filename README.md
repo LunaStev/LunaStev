@@ -5,7 +5,7 @@ Although I'm a one-person team for now, my goal is to build a foundation that wi
 
 I've explored many languages, but I primarily work with [Rust](https://rust-lang.org), [C](https://www.open-std.org/jtc1/sc22/wg14/)/[C++](https://isocpp.org/), and [Python](https://python.org).  
 
-Contact: **lunastev@gurmstudios.com**  
+Contact: **luna@lunastev.org**  
 All inquiries are welcome — business, personal, or recruitment.
 
 <p align="center"><sub>The GitHub account was created on December 31, 2021.  
