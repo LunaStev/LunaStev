@@ -1,12 +1,12 @@
 ## About Me
 
-Hi, I'm **LunaStev** — an independent developer currently working under the future **Wave Foundation**.  
-Although I'm a one-person team for now, my goal is to build a foundation that will shape the future of programming.  
+Hi, I'm **LunaStev** — an independent systems developer focused on compiler, language, and platform-level architecture.
 
-I've explored many languages, but I primarily work with [Rust](https://rust-lang.org), [C](https://www.open-std.org/jtc1/sc22/wg14/)/[C++](https://isocpp.org/), and [Python](https://python.org).  
+Currently developing **Wave**, a systems programming language and modular toolchain project.
 
-Contact: **luna@lunastev.org**  
-All inquiries are welcome — business, personal, or recruitment.
+Primary languages: Rust, C/C++, Python.
+
+Contact: **luna@lunastev.org**
 
 <p align="center"><sub>The GitHub account was created on December 31, 2021.  
 The earlier period is displayed because of <a href="https://github.com/LunaStev/legacy-cc">legacy-cc</a>.</sub></p>
